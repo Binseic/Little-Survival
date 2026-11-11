@@ -1,0 +1,6 @@
+{
+  "name": "Vampire Survivors 2D - Canvas Web Edition",
+  "description": "외부 파일 없이 순수 Canvas 2D API와 Web Audio로 제작된 무한 맵 2D 뱀서라이크 게임. 자동 공격, 마법 화살, 회전 오라, 경험치 자석, 3택 레벨업 강화 시스템 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
